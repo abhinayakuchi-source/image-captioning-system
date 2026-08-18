@@ -1,10 +1,5 @@
 # Image Captioning System Using Deep Learning
 
-## Author
-
-**Abhinaya Kuchi**  
-**B.Tech – Artificial Intelligence and Data Science**
-
 ---
 
 ## 1. Project Overview
@@ -808,7 +803,8 @@ This project demonstrates the practical application of:
 
 ---
 
-## Author
+## Developed by
 
 **Abhinaya Kuchi**  
 **B.Tech – Artificial Intelligence and Data Science**
+⭐ If you find this project useful, please consider giving the repository a star.
