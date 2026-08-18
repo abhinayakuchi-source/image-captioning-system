@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+
+# Large dataset files
+dataset/images/
+dataset/image_features.pkl
+
+# Model files
+models/*.pth
+
+# Temporary files
+*.tmp
